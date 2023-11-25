@@ -1,0 +1,3 @@
+Link va Navlink
+They will help / intercept the react from reaching the serve and requesting another page load
+Navlink add a little class / active
